@@ -58,16 +58,6 @@ Strategy games and AI research are my two favorite time sinks.
 
 </p>
 
----
-
-# 🧠 Core Domains
-
-<p align="center">
-
-Machine Learning • Computer Vision • Deep Learning • Automotive AI  
-ML Deployment • Large Language Models
-
-</p>
 
 ---
 
@@ -128,6 +118,17 @@ ML Deployment • Large Language Models
 
 </p>
 
+
+---
+
+# 🧠 Core Domains
+
+<p align="center">
+
+Machine Learning • Computer Vision • Deep Learning • Automotive AI  
+ML Deployment • Large Language Models
+
+</p>
 ---
 
 # 📊 GitHub Stats
@@ -168,7 +169,7 @@ Vehicle diagnostics • Sensor fusion • Computer vision monitoring • Driving
 
 ---
 
-# 💬 Random Dev Quote
+# 💬 Quote of the month
 
 <p align="center">
 
@@ -176,8 +177,3 @@ Vehicle diagnostics • Sensor fusion • Computer vision monitoring • Driving
 
 </p>
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
