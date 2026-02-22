@@ -1,35 +1,40 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Ammar Akbar</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-AI Engineer • Computer Vision • Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ammar%20Akbar&fontSize=38&fontColor=ffffff"/>
 </p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer;Computer+Vision+Developer;Machine+Learning+Builder;Automotive+AI+Enthusiast"/>
+</p>
+
+<h3 align="center">
+AI Engineer • Computer Vision • Machine Learning
+</h3>
 
 <p align="center">
 Building intelligent automotive AI systems
 </p>
 
-
 ---
 
 # 🚀 About Me
 
-🔭 Currently building **OmniDrive AI**  
+<p align="center">
+
+🔭 Currently building <b>OmniDrive AI</b>  
 A computer vision + sensor fusion platform for automotive diagnostics.
 
 🌱 Currently exploring  
-- ML deployment with Docker  
-- Scalable AI infrastructure  
-- Advanced deep learning systems
+ML deployment with Docker • Scalable AI infrastructure • Advanced deep learning systems
 
 💬 Ask me about  
-- Computer Vision
-- Large Language Models
-- ML Systems
-- Automotive AI
+Computer Vision • Large Language Models • ML Systems • Automotive AI
 
 🎮 Fun fact  
 Strategy games and AI research are my two favorite time sinks.
+
+</p>
 
 ---
 
@@ -55,35 +60,52 @@ Strategy games and AI research are my two favorite time sinks.
 
 # 🧠 Core Domains
 
-Computer Vision
-Deep Learning
-Automotive AI
-Sensor Fusion
-ML Deployment
-Large Language Models
+<p align="center">
 
+Machine Learning • Computer Vision • Deep Learning • Automotive AI  
+ML Deployment • Large Language Models
+
+</p>
 
 ---
 
 # 🧰 Tech Stack
 
-## Languages
+### Languages
+
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## AI / ML
+</p>
+
+### AI / ML
+
+<p align="center">
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia)
 
-## Data
+</p>
+
+### Data
+
+<p align="center">
+
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-## Dev / Cloud
+</p>
+
+### Dev / Cloud
+
+<p align="center">
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -92,10 +114,17 @@ Large Language Models
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-## Tools
+</p>
+
+### Tools
+
+<p align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+</p>
 
 ---
 
@@ -117,22 +146,6 @@ Large Language Models
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=blackmangoo&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackmangoo&theme=tokyo-night"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -143,26 +156,23 @@ Large Language Models
 
 # ⭐ Featured Project
 
-## OmniDrive AI
+<h3 align="center">OmniDrive AI</h3>
 
-AI ecosystem for automotive intelligence
+<p align="center">
 
-• Vehicle diagnostics  
-• Sensor fusion  
-• Computer vision monitoring  
-• Driving performance analytics  
+Vehicle diagnostics • Sensor fusion • Computer vision monitoring • Driving performance analytics
+
+</p>
 
 ---
 
 # 💬 Random Dev Quote
 
+<p align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 👀 Visitors
-
-![](https://visitcount.itsvg.in/api?id=blackmangoo&icon=5&color=6)
+</p>
 
 ---
 
