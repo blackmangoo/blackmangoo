@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="AI/ML Engineer Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ammar%20Akbar&fontSize=60&animation=twinkling&fontColor=ffffff" alt="Animated Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+blackmangoo+👋;AI%2FML+Engineer;Building+Deployable+AI+Systems;Full-Stack+%2B+AI+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Ammar;AI/ML+Engineer;Building+Deployable+AI+Systems;Full-Stack+and+AI+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -168,9 +168,9 @@ flowchart TD
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackmangoo/blackmangoo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
