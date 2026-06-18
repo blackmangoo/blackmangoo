@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-**I am an AI/ML Engineer and final-semester BS Artificial Intelligence student at FAST-NUCES, focused on building deployable AI systems that combine strong model development with clean, usable product interfaces.**
+**I am an AI/ML Engineer and recent BS Artificial Intelligence graduate from FAST-NUCES, focused on building deployable AI systems that combine strong model development with clean, usable product interfaces.**
 
 My work spans **Computer Vision, RAG pipelines, LLM applications, NLP systems, FastAPI backends, Supabase/PostgreSQL databases, Streamlit dashboards, and full-stack AI products**.
 
